@@ -45,7 +45,6 @@ void CheckMatrixNumber(int[,] matrix, int number)
                 System.Console.WriteLine($"[{i}, {j}]");
                 count++;
             }
-            
         }
     }
     if (count == 0) System.Console.WriteLine("Данное число не найдено в массиве");

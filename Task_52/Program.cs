@@ -46,7 +46,6 @@ void FindMidleInColomn(int[,] matrix)
     }
 }
 
-
 System.Console.Write("Введите количество строк: ");
 int row = Convert.ToInt32(Console.ReadLine());
 System.Console.Write("Введите количество столбцов: ");
