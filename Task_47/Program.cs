@@ -6,9 +6,6 @@
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
 
-
-
-
 void FillMatrixRnd(double[,] matrix)
 {
     Random rnd = new Random();
